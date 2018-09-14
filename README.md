@@ -10,7 +10,7 @@ the object is a rock and M if it is a mine (metal cylinder).
 ### Data Set description :
 The numbers in the features are in increasing order of aspect angle, but they do not encode the angle directly.
  
-### Dataset Link: 
+### Dataset Link:
 https://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+(Sonar,+Mines+vs.+Rocks)
 
 ### Analysis results are present in 'rock-vs-metal-classification.ipynb' file
