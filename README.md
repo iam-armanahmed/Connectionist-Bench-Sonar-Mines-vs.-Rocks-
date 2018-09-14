@@ -8,7 +8,7 @@ over a certain period of time. The label associated with each record contains th
 the object is a rock and M if it is a mine (metal cylinder).
 
 ### Data Set description :
-The numbers in the labels are in increasing order of aspect angle, but they do not encode the angle directly.
+The numbers in the features are in increasing order of aspect angle, but they do not encode the angle directly.
  
 ### Dataset Link: 
 https://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+(Sonar,+Mines+vs.+Rocks)
