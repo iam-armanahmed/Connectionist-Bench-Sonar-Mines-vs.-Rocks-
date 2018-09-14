@@ -13,6 +13,6 @@ The numbers in the features are in increasing order of aspect angle, but they do
 ### Dataset Link:
 https://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+(Sonar,+Mines+vs.+Rocks)
 
-### Analysis results are present in 'rock-vs-metal-classification.ipynb' file
+### Analysis and results are present in 'rock-vs-metal-classification.ipynb' file
 
 
